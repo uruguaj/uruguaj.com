@@ -4,7 +4,7 @@ Welcome to my personal website, [uruguaj.com](https://uruguaj.com)!
 
 ## Technologies Used
 
-- React
+- Preact
 - Vite
 - dotenv (for environment variables)
 - antd (Ant Design components)
